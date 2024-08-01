@@ -14,10 +14,10 @@ Janken Junkie is a graphical user interface (GUI) application that simulates a c
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/ecda78ce-2aa4-4202-91bb-147e73dabc65" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/21bed7a0-be0c-4025-8130-0d55f56089a9" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/2c9f1a36-4b2a-400f-9dc5-4e72fc86c5c3" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/cc8089fb-c3d1-4cd0-ad50-ced1e303ffa7" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/9908d395-bf81-4ef2-a1bb-6ba88a680f89" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/730db7a6-b7a8-4bf4-8d33-5222e755e6c7" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/668c3492-92bd-48ef-8d4b-b3b5669ffeed" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/d5a5c3ee-2c73-4810-9533-df653864dbd8" width="400" alt="image">
 
 ## ⛳ Getting Started
 
